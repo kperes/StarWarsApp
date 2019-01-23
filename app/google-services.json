@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "387880102543",
+    "firebase_url": "https://trabalho-cd79c.firebaseio.com",
+    "project_id": "trabalho-cd79c",
+    "storage_bucket": "trabalho-cd79c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387880102543:android:6b06b9511b061b1b",
+        "android_client_info": {
+          "package_name": "com.batista.kleyton.starwarsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387880102543-it6020e0aus0a7cens5lsbsu65opgito.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.batista.kleyton.starwarsapp",
+            "certificate_hash": "49da36a73c1cbd09212ff270c5db29e730652d0d"
+          }
+        },
+        {
+          "client_id": "387880102543-c47hqk5qj8js8tm3rs185ctdgmi1788r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeyBKjwGQtiwQhK135fpkWR_RpNd2NF_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387880102543-c47hqk5qj8js8tm3rs185ctdgmi1788r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
